@@ -1,4 +1,4 @@
-# Hi there, I'm Vrut Thumar 👋 
+# Hi there, I'm Vrut Thummar 👋 
 
 ### 🚀 Full Stack & Mobile Developer | 5+ Years Experience
 I am a passionate Full Stack Developer specializing in building robust, scalable web and mobile applications. With over 5 years of experience, I bridge the gap between complex backend logic and intuitive frontend design. Currently exploring the intersection of **AI** and **Mobile Development**.

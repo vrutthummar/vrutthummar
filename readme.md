@@ -23,12 +23,6 @@ I am a passionate Full Stack Developer specializing in building robust, scalable
 
 ---
 
-### 📊 My Stats
-![Vrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent)
-
----
-
 ### 📨 Connect with me:
 - **Email:** [vrutthumar24@gmail.com](mailto:vrutthumar24@gmail.com)
 - **Location:** Surat, Gujarat, India
